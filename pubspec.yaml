@@ -1,6 +1,6 @@
 name: props
-description: Load properties format in dart or flutter. Just do it.
-version: 1.0.1
+description: Load properties format in dart or flutter. Just do it. Api is simple.
+version: 1.0.2
 homepage: https://github.com/fluttercandies/properties
 # author: Caijinglong <cjl_spy@163.com>
 
