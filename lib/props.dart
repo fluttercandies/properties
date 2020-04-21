@@ -15,6 +15,10 @@ class Properties with MapMixin<String, String> {
         // The '#' is properties file comment.
         continue;
       }
+      if (line.isEmpty) {
+        // empty line
+        continue;
+      }
       try {
         final kv = line.split('=');
         final k = kv[0];

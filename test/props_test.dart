@@ -6,6 +6,7 @@ final testSrc = '''
 version=1.0.0
 name=properties
 name=ppp
+
 #comment=1
 '''
     .trim();
