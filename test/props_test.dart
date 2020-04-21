@@ -1,4 +1,4 @@
-import 'package:properties/properties.dart';
+import 'package:props/props.dart';
 import 'package:test/test.dart';
 
 final testSrc = '''

@@ -1,4 +1,4 @@
-name: properties
+name: props
 description: Load properties format in dart or flutter.
 version: 1.0.0
 homepage: https://github.com/fluttercandies/properties

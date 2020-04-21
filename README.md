@@ -2,15 +2,17 @@
 
 Load properties for dart.
 
+[![img](https://img.shields.io/pub/v/props)](https://pub.dev/packages/props)
+
 ## Usage
 
 ```yaml
 dependencies:
-  properties: ^1.0.0
+  props: ^1.0.0
 ```
 
 ```dart
-import 'package:properties/properties.dart';
+import 'package:props/props.dart';
 
 final text = '''
 #This is comment
