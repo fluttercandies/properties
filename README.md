@@ -3,6 +3,7 @@
 Load properties for dart.
 
 [![img](https://img.shields.io/pub/v/props)](https://pub.dev/packages/props)
+![Dart CI](https://github.com/fluttercandies/properties/workflows/Dart%20CI/badge.svg)
 
 ## Usage
 
