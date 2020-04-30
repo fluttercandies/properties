@@ -19,8 +19,8 @@ void main() {
   test('load string', () {
     final p = Properties.loadString(testSrc);
     assert(p['version'] == '1.0.0');
-    assert(p['name'] == 'properties');
-    assert(p['name'] != 'ppp');
+    assert(p['name'] != 'properties');
+    assert(p['name'] == 'ppp');
     assert(p['comment'] != '1');
   });
 

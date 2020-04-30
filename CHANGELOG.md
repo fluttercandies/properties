@@ -1,3 +1,7 @@
+## 1.0.4
+
+After value of key will overwrite the old.
+
 ## 1.0.3
 
 Fix error:

@@ -40,7 +40,7 @@ class Properties with MapMixin<String, String> {
 
   @override
   void operator []=(String key, String value) {
-    _kv.putIfAbsent(key, () => value);
+    _kv[key] = value;
   }
 
   @override
