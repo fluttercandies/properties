@@ -9,7 +9,7 @@ Load properties for dart.
 
 ```yaml
 dependencies:
-  props: ^1.0.0
+  props: ^2.0.0-nullsafety
 ```
 
 ```dart
