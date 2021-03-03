@@ -9,3 +9,6 @@ build/
 
 # Directory created by dartdoc
 doc/api/
+
+# https://github.com/CaiJingLong/find_env_shell
+.env

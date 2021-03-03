@@ -1,3 +1,7 @@
+## 2.0.0-nullsafety
+
+Null safety version.
+
 ## 1.0.4
 
 After value of key will overwrite the old.

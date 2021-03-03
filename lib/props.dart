@@ -34,7 +34,7 @@ class Properties with MapMixin<String, String> {
   }
 
   @override
-  String operator [](Object key) {
+  String? operator [](Object? key) {
     return _kv[key];
   }
 
@@ -52,7 +52,7 @@ class Properties with MapMixin<String, String> {
   Iterable<String> get keys => _kv.keys;
 
   @override
-  String remove(Object key) {
+  String? remove(Object? key) {
     return _kv.remove(key);
   }
 }
