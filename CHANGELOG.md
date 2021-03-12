@@ -1,3 +1,9 @@
+# CHANGELOG
+
+## 2.0.0
+
+Upgrade version
+
 ## 2.0.0-nullsafety
 
 Null safety version.
